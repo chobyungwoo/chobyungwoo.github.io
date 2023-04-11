@@ -1,11 +1,9 @@
 ---
-sort: 1
+sort: 2
 ---
 
-# template
+# family
 
-```
-{% raw %}{% include list.liquid all=true %}{% endraw %}
-```
+test
 
 {% include list.liquid all=true %}
