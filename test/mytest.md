@@ -4,7 +4,7 @@ text: |
   test
 ---
 
-#my test
+#mytest
 
 `{:.font-mono}`
 
