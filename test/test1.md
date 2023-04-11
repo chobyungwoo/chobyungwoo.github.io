@@ -1,7 +1,5 @@
 ---
-sort: 12 
+sort: 9
 text: |
-  테스트입니다.
   test
 ---
-
