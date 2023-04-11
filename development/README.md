@@ -1,11 +1,6 @@
 ---
-sort: 1
+sort: 3
 ---
 
-# template
-
-```
-{% raw %}{% include list.liquid all=true %}{% endraw %}
-```
-
-{% include list.liquid all=true %}
+# development
+test
