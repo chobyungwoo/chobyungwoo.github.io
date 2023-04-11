@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Test Documentation
+#일상 기록
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
