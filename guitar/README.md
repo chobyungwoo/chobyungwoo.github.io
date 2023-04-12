@@ -1,11 +1,7 @@
 ---
-sort: 98
+sort: 40
 ---
 
 # guitar
 
-```
-{% raw %}{% include list.liquid all=true %}{% endraw %}
-```
-
-{% include list.liquid all=true %}
+**기타**와 **노래**를 이야기 합니다.
