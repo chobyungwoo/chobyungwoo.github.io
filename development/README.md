@@ -1,6 +1,6 @@
 ---
-sort: 3
+sort: 1
 ---
 
 # development
-test
+개발 관련 이야기
