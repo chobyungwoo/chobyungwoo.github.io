@@ -1,9 +1,7 @@
 ---
-sort: 2
+sort: 20
 ---
 
-# family
+# about my family
 
-test
-
-{% include list.liquid all=true %}
+**4 가족**의 이야기 입니다.
