@@ -1,6 +1,8 @@
 ---
-sort: 1
+sort: 30
 ---
 
-# development 개발 일지
-개발 관련 이야기
+# development
+
+토이 프로젝트 등    
+**개발** 관련 이야기를 합니다.
