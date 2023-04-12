@@ -8,3 +8,12 @@
 환영합니다.
 
 hit counter 테스트 중
+
+<script src="https://utteranc.es/client.js"
+        repo="chobyungwoo/chobyungwoo.github.io"
+        issue-term="pathname"
+        label="cbw-issue"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
