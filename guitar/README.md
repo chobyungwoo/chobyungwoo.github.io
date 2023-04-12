@@ -2,7 +2,7 @@
 sort: 98
 ---
 
-# template
+# guitar
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
