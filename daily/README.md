@@ -2,4 +2,6 @@
 sort: 25
 ---
 
-# Daily writing 일상 기록
+# diary
+
+매일매일 일어난 이슈를 기록합니다.
