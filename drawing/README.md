@@ -2,7 +2,7 @@
 sort: 98
 ---
 
-# template
+# drawing
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
