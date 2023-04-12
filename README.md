@@ -13,7 +13,7 @@ hit counter 테스트 중
         repo="chobyungwoo/chobyungwoo.github.io"
         issue-term="pathname"
         label="cbw-issue"
-        theme="github-dark"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
