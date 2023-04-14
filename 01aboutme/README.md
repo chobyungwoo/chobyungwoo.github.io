@@ -4,7 +4,15 @@ sort: 10
 
 # About CBW
 
-Tech Skill:
+**Sites:**    
+Homepage :  [chobyungwoo.shop:5000](http://chobyungwoo.shop:5000)    
+Blog :      [chobyungwoo.github.io/](https://chobyungwoo.github.io/)    
+Instagram : [www.instagram.com/byungwoo.cho/](https://www.instagram.com/byungwoo.cho/)    
+Youtube :   [youtube.com/chobyungwoo](http://youtube.com/chobyungwoo)    
+Facebook :  [www.facebook.com/chobyungwoo.cbw](https://www.facebook.com/chobyungwoo.cbw)    
+
+
+**Tech Skill:**    
 <p>
 <img alt="linux"    src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/>
 <img alt="aws"      src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon%20AWS&logoColor=white"/>
