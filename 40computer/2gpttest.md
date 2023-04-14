@@ -24,4 +24,4 @@ Openai 페이지에서 api key를 받아온다.
 응용해서 다른것을 해볼 수 있다는게 중요하다.
 
 결과 페이지:    
-[chobyungwoo.shop:5000](http://chobyungwoo.shop:5000)
+[www.chobyungwoo.shop:5000](http://wew.chobyungwoo.shop:5000)
