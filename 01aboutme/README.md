@@ -5,7 +5,7 @@ sort: 10
 # About CBW
 
 **Sites:**    
-Homepage :  [chobyungwoo.shop:5000](http://chobyungwoo.shop:5000)    
+Homepage :  [www.chobyungwoo.shop:5000](http://www.chobyungwoo.shop:5000)    
 Blog :      [chobyungwoo.github.io/](https://chobyungwoo.github.io/)    
 Instagram : [www.instagram.com/byungwoo.cho/](https://www.instagram.com/byungwoo.cho/)    
 Youtube :   [youtube.com/chobyungwoo](http://youtube.com/chobyungwoo)    
