@@ -1,5 +1,5 @@
 ---
-3
+sort: 3
 ---
 
 # PhotoAlbum with RaspberryPi 3A
