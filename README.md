@@ -8,5 +8,5 @@
         issue-term="url"
         theme="github-light"
         crossorigin="anonymous"
-        async>
+        >
 </script>
