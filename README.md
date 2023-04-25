@@ -3,3 +3,10 @@
 
 # Welcome to CBW'blog.
 
+<script src="https://utteranc.es/client.js"
+        repo="chobyungwoo/chobyungwoo.github.io"
+        issue-term="url"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
